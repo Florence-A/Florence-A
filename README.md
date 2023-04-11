@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**Florence-A/Florence-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Aloha, my name is Florence
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## About Me
+
+I always liked use computers for create things :
+
+- Mini-games with RPG Maker
+- Drawings with Photoshop / Gimp
+- Videos with Windows Movie Maker
+- Blogs, Forums...
+
+
+🧩 Today I'm an happy back-end developer
+
+
+## I like also...
+- Learn new things
+- Hike
+- Swim
+- Play ukulélé 
+
+------
+
+## 🛠 Skills
+Languages : PHP, Javascript, HTML, CSS
+
+Frameworks : Symfony
+
+Libraries : React.js, Bootstrap, PHP unit
