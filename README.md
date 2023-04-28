@@ -28,4 +28,4 @@ I always liked use computers for create things :
 
 ##  :pencil: Projects
 
-Actually I'm working at [Cool It](https://coolitagency.fr/) on a nice "file download platform" project with managment and stats in admin part.
+Actually I'm working at [Cool It](https://coolitagency.fr/) on a nice "file download platform" project with management and stats in admin part.
