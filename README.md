@@ -20,13 +20,12 @@ I always liked use computers for create things :
 - Mini-games with RPG Maker
 - Drawings with Photoshop / Gimp
 - Videos with Windows Movie Maker
-- Blogs, Forums...
+- I also like learn new things, hiking, swimming and play uke :notes:
 
 🧩 Today I'm an happy back-end developer
 
-I like also...
-- Learn new things
-- Hike
-- Swim
-- Play ukulélé 
+------
 
+##  :pencil: Projects
+
+Actually I'm working at [Cool It](https://coolitagency.fr/) on a nice "file download platform" project with managment and stats in admin part.
