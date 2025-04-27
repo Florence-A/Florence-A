@@ -5,9 +5,9 @@
 
 
 ## 🛠 Skills
-Languages : PHP, Javascript, HTML, CSS
+Languages : Ruby, PHP, Javascript, HTML, CSS
 
-Frameworks : Symfony
+Frameworks : Ruby On Rails, Symfony
 
 Libraries : React.js, Bootstrap, PHP unit
 
